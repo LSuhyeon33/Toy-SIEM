@@ -1,0 +1,6 @@
+{
+  "name": "무선 TCP/IP 트래픽 이상 탐지 및 수동 대응 시스템",
+  "description": "무선 인프라(WiFi, 5G 등)를 경유하는 TCP/IP 트래픽의 실시간 시계열 모니터링, DDoS 이상 징후 탐지, 수동 제어(IP 차단 및 세션 종료) 및 조치 보고서(.docx) 출력을 지원하는 통합 보안 관리 시스템입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
